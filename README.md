@@ -1,2 +1,2 @@
 # Dataset
-Class to compute simple operations on a dataset without using list
+Class to compute simple operations on a dataset without using python built-in Lists
